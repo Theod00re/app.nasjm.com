@@ -7,7 +7,11 @@ Automatically create and explore summarized notes and recordings in a single app
 
 Bring the newest tech to your team with Nas-Summary-Support: Summ, smp, and more.
 
-### Feattures and Functions
+### Feattures and Functions Pre-Build
 
 > The Core feature is recording the key take-aways from an audio/video stream using TensorFlow or Pytorch (ML and Deep Learning).
 
+- Recording key take-aways from an audio/video stream.
+- Summarize semesterly notes for new students.
+- Join classes/streams and record key-points in students absence. 
+- Source external resources and include in notes.
